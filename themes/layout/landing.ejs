@@ -4,12 +4,15 @@
   <meta charset="UTF-8">
   <title><%= page.title %> | <%= config.title %></title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="<%= url_for('/css/style.css') %>">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    /* Full-width CSS here */
+    body, html { margin:0; padding:0; width:100%; font-family: 'Roboto', sans-serif; }
+    /* Add your hero, features, contact form styles here */
+  </style>
 </head>
 <body>
   <!-- Paste your full landing page HTML here -->
   <%- page.content %>
-
-  <script src="<%= url_for('/js/script.js') %>"></script>
 </body>
 </html>

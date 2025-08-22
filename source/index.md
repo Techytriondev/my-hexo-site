@@ -116,7 +116,7 @@ layout: landing
   <!-- Hero Section -->
   <section id="hero">
     <div class="container">
-      <h1>Welcome to My Hexo Site</h1>
+      <h1>Welcome to My Website</h1>
       <p>Elegant landing page template for your website built with Hexo and Netlify</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
@@ -162,7 +162,7 @@ layout: landing
 
   <!-- Footer -->
   <footer>
-    &copy; 2025 My Hexo Site. All rights reserved.
+    &copy; 2025. All rights reserved.
   </footer>
 
   <!-- Formspree JS -->
