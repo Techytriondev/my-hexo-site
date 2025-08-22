@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: page
+layout: landing
 ---
 
 <!-- Paste the full elegant HTML landing page here -->
